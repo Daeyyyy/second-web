@@ -1,0 +1,182 @@
+@import url('https://fonts.googleapis.com/css2?family=Great+Vibes&family=Itim&display=swap');
+body{
+    background-color: rgb(231, 231, 242);
+    margin: 0;
+    text-align: center;
+    font-family: 'Itim', cursive;
+    font-size: 140%;
+}
+.top-container{
+    background-color:#EAF6F6 ;
+    position: relative;
+    padding-top: 100px;
+}
+.middle-container{
+    margin: 100px 0;
+}
+h1{
+    margin:50px auto 0 auto;
+    font-family: 'Great Vibes', cursive;
+    font-size: 5.625rem;
+}
+h2{
+    font-size: 2.5rem;
+    color:#66BFBF ;
+}
+.intro{
+    width: 30%;
+    margin: auto;
+}
+
+.line{
+    text-decoration: underline;
+}
+.bottom-cloud{
+    position: absolute;
+    left: 250px;
+    bottom: 300px;
+}
+.top-cloud{
+    position: absolute;
+    right: 220px;
+    top: 50px;
+}
+.waterpic{
+    width: 200px;
+    height: 200px;
+}
+.Coding{
+    width: 200px;
+    height: 200px;
+}
+.Gaming{
+     width: 200px;
+    height: 200px;   
+}
+.Game-dev{
+      width: 200px;
+    height: 200px;  
+}
+.table1{
+    margin: 0 auto;
+}
+.bench-press{
+    width: 150px;
+    height: 150px;
+    float: left;
+    margin-right: 30px;
+}
+.coder{
+    color: rgb(233, 94, 117);
+}
+.gamer{
+    color:rgb(211, 141, 9);
+}
+.dev{
+    color:rgba(90, 120, 240, 0.903);
+}
+p{
+    color: #40514E;
+    line-height: 2;
+}
+.h1color{
+    color: #66BFBF;
+}
+.h2color{
+    color: #66BFBF;
+    font-weight: normal;
+}
+.footer-link{
+    color:#11999E ;
+}
+.contactm{
+    color: rgb(1, 18, 18);
+}
+.skill-row{
+    width: 50%;
+    margin:100px auto 100px auto ;
+    text-align: left;
+    line-height: 1;
+    padding: 30px;
+    
+}
+.computer-screen{
+    width: 150px;
+    height: 150px;
+    float: right;
+    margin-left: 30px;
+}
+.body-chem{
+    color: #66BFBF;
+}
+hr{
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 4px;
+    width: 3.5%;
+    color: #4d8989;
+    margin: 100px auto;
+}
+.love-c{
+    color: #11999E;
+}
+.bottom-container{
+    background-color: #66BFBF;
+    padding: 30px;
+    position: relative;
+    top: 110px;
+    line-height: 1;
+    font-family: 'Itim', cursive;
+}
+
+.moj{
+    color: #EAF6F6;
+    font-size: 0.95rem;
+    padding: 20px;
+}
+.contactm{
+    background: #66BFBF;
+    background-image: -webkit-linear-gradient(top, #66BFBF, #66BFBF);
+    background-image: -moz-linear-gradient(top, #66BFBF, #66BFBF);
+    background-image: -ms-linear-gradient(top, #66BFBF, #66BFBF);
+    background-image: -o-linear-gradient(top, #66BFBF, #66BFBF);
+    background-image: -webkit-gradient(to bottom, #66BFBF, #66BFBF);
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 20px;
+    border-radius: 6px;
+    color: #FFFFFF;
+    font-family: 'Itim', cursive;
+    font-size: 20px;
+    font-weight: 60;
+    padding: 15px;
+    -webkit-box-shadow: 1px 1px 20px 0 #000000;
+    -moz-box-shadow: 1px 1px 20px 0 #000000;
+    box-shadow: 1px 1px 20px 0 #000000;
+    text-shadow: 1px 1px 20px #000000;
+    border: solid #66BFBF 1px;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    text-align: center;
+ }
+ 
+ .contactm:hover {
+    border: solid #66BFBF 1px;
+    background: #66BFBF;
+    background-image: -webkit-linear-gradient(top, #66BFBF, #3D94F6);
+    background-image: -moz-linear-gradient(top, #66BFBF, #3D94F6);
+    background-image: -ms-linear-gradient(top, #66BFBF, #3D94F6);
+    background-image: -o-linear-gradient(top, #1E62D0, #3D94F6);
+    background-image: -webkit-gradient(to bottom, #1E62D0, #3D94F6);
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 20px;
+    text-decoration: none;
+ }
+ a{
+    text-decoration: none;
+    margin: 10px 20px;
+ }
+ a:hover{
+    color: #EAF6F6;
+ }
